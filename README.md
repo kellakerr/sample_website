@@ -1,5 +1,5 @@
 <!-- sample website -->
 
 
-This is a sample website made as part of Learn Enough HTML to Be Dangerous
+This is a sample website made as part of Learn Enough HTML to Be Dangerous.
 
